@@ -1,9 +1,9 @@
 # NFT 생성
 
 ![1](https://user-images.githubusercontent.com/25763222/168836274-be415ef5-c2a8-48f5-9047-c41e649d40e7.jpg)
-Klaytn Kaikas 지갑의 주소를 입력합니다 
-잠시후에 입력한 지갑주소에 NFT가 생성됩니다 
-생성된 NFT는 Kaikas 지갑 혹은 Opensea에서 확인할 수 있습니다 
+Klaytn Kaikas 지갑의 주소를 입력합니다   
+잠시후에 입력한 지갑주소에 NFT가 생성됩니다   
+생성된 NFT는 Kaikas 지갑 혹은 Opensea에서 확인할 수 있습니다   
 
 # Kaikas 지갑에서 NFT 확인 방법
 ![2](https://user-images.githubusercontent.com/25763222/168836593-bd2356cf-8270-46f5-b5ed-c680f1901250.jpg)
